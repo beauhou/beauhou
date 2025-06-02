@@ -27,22 +27,11 @@ Welcome to my GitHub profile! Here you’ll find my journey, projects, and passi
 
 ![beauhou's GitHub Stats](https://github-readme-stats.vercel.app/api?username=beauhou&show_icons=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beauhou&layout=compact&theme=github_dark)
-
----
-
-## 📂 Featured Projects
-
-- 🚧 *Add your favorite or most proud projects here!*
-- [Project Name](#) — Description in one sentence
-- [Another Project](#) — Quick description or highlight
-
 ---
 
 ## 🌐 Connect with Me
 
 - [GitHub](https://github.com/beauhou)
-- *Add your LinkedIn, Blog, or other social links here!*
-
 ---
 
 > 📝 “Keep learning, keep building, and let’s make something awesome together!”
